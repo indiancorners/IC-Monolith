@@ -1,0 +1,111 @@
+# Store Section from index.html (Lines 737-841)
+
+<div class="c-section-overline  || ">
+            <div class="c-section-overline_inner">
+                            <h2 class="c-section-overline_title">Store</h2>
+            
+            <div class="o-grid -col-4 -gutters">
+                <div class="o-grid_item || u-gc-3/5@from-medium || u-gc-2/5">
+                                            
+
+
+
+<ul class="c-list  -no-border-last-child">
+            <li class="c-list_row">
+                                                            
+                <div class="c-list_item">
+                                            <a href="https://store.locomotive.ca" class="c-list_link" target="_blank" rel="noopener noreferrer" data-icon="&nbsp;&nbsp;↗" data-hover-shuffle>Check out our gear</a>
+                                    </div>
+            
+                    </li>
+    </ul>
+                                    </div>
+            </div>
+        </div>
+    </div>
+
+                <div class="u-margin -large-top large-bottom">
+                    <div class="o-grid -col-12@from-medium -col-8@from-small -col-4@to-small -gutters">
+                        
+
+<article class="c-shop-tile o-grid_item u-gc-1/4 u-gc-1/5@from-small u-gc-1/7@from-medium -clickable" data-hover-shuffle="children">
+    
+
+
+    
+
+
+    
+
+
+<div class="c-image o-grid_item u-gc-1/4 u-gc-1/5@from-small u-gc-1/7@from-medium  -lazy-load" >
+    <span class="c-image_inner" style="background-image: url('/assets/images/temp/pros-de-linternet-white-t-shirt-thumb.jpg');">
+        <img
+            class="c-image_img "
+            alt="Pros de l&#039;internet White T-Shirt"
+            width="1440"
+            height="1640"
+                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201440%201640'%3E%3C/svg%3E"
+                data-src="/assets/images/temp/pros-de-linternet-white-t-shirt.jpg"
+                data-scroll
+                data-scroll-offset="15%"
+                data-scroll-call="lazyLoad, Scroll"
+                data-depixelate                                    >
+    </span>
+
+    </div>
+
+    <div class="c-shop-tile_infos">
+        <h3 class="c-shop-tile_title" data-hover-shuffle-child>Pros de l&#039;internet White T-Shirt</h3>
+        <div class="c-shop-tile_cta" aria-hidden="true" data-hover-shuffle-child>Buy now→</div>
+                    <span class="c-shop-tile_price">30 USD</span>
+            </div>
+
+            <a href="https://store.locomotive.ca/products/pros-de-linternet-white-t-shirt" class="c-shop-tile_link">Buy now→</a>
+    </article>
+
+                        
+
+<article class="c-shop-tile o-grid_item u-gc-3/5 u-gc-6/9@from-small u-gc-9/13@from-medium -clickable" data-hover-shuffle="children">
+    
+
+
+    
+
+
+    
+
+
+<div class="c-image o-grid_item u-gc-3/5 u-gc-6/9@from-small u-gc-9/13@from-medium  -lazy-load" >
+    <span class="c-image_inner" style="background-image: url('/assets/images/temp/pros-de-linternet-sand-cap-thumb.jpg');">
+        <img
+            class="c-image_img "
+            alt="Pros de l&#039;internet Sand Hat"
+            width="1440"
+            height="1640"
+                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201440%201640'%3E%3C/svg%3E"
+                data-src="/assets/images/temp/pros-de-linternet-sand-cap.jpg"
+                data-scroll
+                data-scroll-offset="15%"
+                data-scroll-call="lazyLoad, Scroll"
+                data-depixelate                                    >
+    </span>
+
+    </div>
+
+    <div class="c-shop-tile_infos">
+        <h3 class="c-shop-tile_title" data-hover-shuffle-child>Pros de l&#039;internet Sand Hat</h3>
+        <div class="c-shop-tile_cta" aria-hidden="true" data-hover-shuffle-child>Buy now→</div>
+                    <span class="c-shop-tile_price">25 USD</span>
+            </div>
+
+            <a href="https://store.locomotive.ca/products/pros-de-linternet-beige-hat" class="c-shop-tile_link">Buy now→</a>
+    </article>
+                    </div>
+                </div>
+
+# Careers Navigation Links
+
+Header: <li class="c-header-menu_item"><a href="en/careers" class="c-header-menu_link" data-hover-shuffle>Careers</a></li>
+Menu: <a href="en/careers" class="c-menu_nav_link ">Careers</a>
+Footer: <li class="c-footer_menu_item || u-none@to-small"><a href="en/careers" class="c-footer_menu_link" data-hover-shuffle>Careers</a></li>
